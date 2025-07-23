@@ -1,2 +1,2 @@
-# IntelliSales---Advanced-Power-BI-SQL-Driven-Sales-Analytics-Dashboard
+# IntelliSales---Advanced-Power-BI-Driven-Sales-Analytics-Dashboard
 Advanced Power BI sales dashboard integrating a MySQL database with real-time SQL queries, providing insights into sales trends and customer behavior. Created an optimized model for dynamic reporting and visualizations. Implemented custom SQL and DAX for revenue analysis &amp; sales forecasting enabling interactive dashboards for performance analysis.
